@@ -1,3 +1,5 @@
+package cn.src.books.teachter.teaching;
+
 /**
  * Created by 932940344@qq.com
  * on 2016/6/24
@@ -11,8 +13,8 @@ public class Human {
     boolean isMarried;
 
 
-    public Human(String name) {
-        this.name = name;
+    public Human() {
+        this.name = this.name;
     }
 
     public Human(String name, String gender, int age) {

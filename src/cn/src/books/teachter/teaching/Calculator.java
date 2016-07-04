@@ -1,4 +1,4 @@
-import com.sun.org.apache.xpath.internal.SourceTree;
+package cn.src.books.teachter.teaching;
 
 /**
  * Created by Administrator on 2016/6/27.
@@ -7,7 +7,7 @@ public class Calculator {
 //    int i;
 //    double d;
 //
-//    public Calculator(int i, double d) {
+//    public cn.src.books.teachter.teaching.Calculator(int i, double d) {
 //        this.i = i;
 //        this.d = d;
 //    }

@@ -1,4 +1,4 @@
-package exercises;
+package cn.src.books.teachter.exercises;
 
 /**
  * Created by Administrator on 2016/6/20.
